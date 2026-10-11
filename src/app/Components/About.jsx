@@ -17,7 +17,7 @@ import {
 export default function About() {
   const stats = [
     {
-      value: "2.5+ Years",
+      value: "3+ Years",
       label: "Strong Professional Experience",
       icon: Briefcase,
       color: "from-blue-500 to-cyan-500",
